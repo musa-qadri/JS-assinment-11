@@ -128,15 +128,15 @@
 // Question No 2;
 
 
-var num1 = +prompt('Enter a Negative integer number',-2.673);
-var round = Math.round(num1) 
-var round2 = Math.floor(num1) 
-var round3 = Math.ceil(num1) 
+// var num1 = +prompt('Enter a Negative integer number',-2.673);
+// var round = Math.round(num1) 
+// var round2 = Math.floor(num1) 
+// var round3 = Math.ceil(num1) 
 
-document.write('<h1>',"Number : ",num1,'<h1/>')
-document.write('<h1>',"Round of value : ",round,'<h1/>')
-document.write('<h1>',"Floor value: ",round2,'<h1/>')
-document.write('<h1>',"Ceil value : ",round3,'<h1/>')
+// document.write('<h1>',"Number : ",num1,'<h1/>')
+// document.write('<h1>',"Round of value : ",round,'<h1/>')
+// document.write('<h1>',"Floor value: ",round2,'<h1/>')
+// document.write('<h1>',"Ceil value : ",round3,'<h1/>')
 
 
 // Question no 3;
@@ -215,5 +215,32 @@ document.write('<h1>',"Ceil value : ",round3,'<h1/>')
 
 // document.write(para)
 
+
+// var num1 = [(1,2,3),(4,5,6),(7,8,9)]
+  
+//    var num1 =['apple','banna','pinaple','stowbery','mango']
+
+// for( i=0; i<num1.length; i++){
+//         document.write(num1,'<br>')
+    
+// } 
+
+
+
+// var arra = ['karachi','peshawer','lahore','islamabad','multan']
+
+// flage = 'no'
+
+// for (i=0; i < arra.length; i++){
+//     if ( arra[i] == 'haydrabad'){
+//          var flage = 'yes'
+//         console.log('print ho gia');
+//         break;
+//     }
+   
+// }
+// if(flage ==='no'){
+//     console.log('nahi hua print')
+// }
 
 
